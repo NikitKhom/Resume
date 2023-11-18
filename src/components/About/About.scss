@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+}
+
+.about__info {
+    width: 50%;
+}
+
+.about__title {
+    font-size: 48px;
+    line-height: 40px;
+    width: 200px;
+    margin: 0;
+}
+
+.about__text {
+    font-size: 20px;
+    line-height: 24px;
+}
